@@ -1,4 +1,8 @@
-# lightway-artworks
+<p align="center">
+     <img width="128" height="128" src="logo/lightway-logo.svg">
+</p>
+  
+<h1 align="center">lightway-artworks</h1>
 
 lightway의 아트워크 저장소입니다.
 
