@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733333 67.733336"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="lightway-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="600px"
+     inkscape:zoom="1"
+     inkscape:cx="299.5"
+     inkscape:cy="80"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <g
+     id="g4413">
+    <path
+       d="M 2.1166667,10.583335 17.991666,2.1166667 V 65.616681 H 2.1166667 Z"
+       style="fill:#a0e0e2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.140009"
+       id="path6074" />
+    <path
+       d="M 25.929171,27.516676 H 41.804174 L 17.991678,65.616683 H 2.1166687 Z"
+       style="fill:#73d0d5;fill-opacity:1;stroke-width:0.144068"
+       id="path5874" />
+    <path
+       d="M 25.929171,27.516676 H 41.804174 V 65.616683 H 25.929171 Z"
+       style="fill:#a0e0e2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.10845"
+       id="path5674" />
+    <path
+       d="M 49.741665,27.51668 H 65.616668 L 41.804174,65.616689 H 25.929171 Z"
+       style="fill:#73d0d5;fill-opacity:1;stroke-width:0.144068"
+       id="path5454" />
+  </g>
+</svg>
